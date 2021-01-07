@@ -1,0 +1,16 @@
+{
+  "name": "com.greenbuttongames.morpeh.hypercasual.sdk.odin",
+  "author": "Oleg Morozov",
+  "displayName": "Morpeh.Hypercasual.SDK.Odin",
+  "description": "Odin Inspector and Odin Validator for Hypercasual ECS Template.",
+  "unity": "2019.1",
+  "version": "2020.1.0",
+  "keywords": [
+    "template",
+    "hypercasual",
+    "morpeh",
+    "ecs"
+  ],
+  "dependencies": {
+  }
+}
